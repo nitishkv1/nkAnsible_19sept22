@@ -1,0 +1,25 @@
+---
+- nkstudents:
+  - name: Anil
+    phone no: 67777356
+    address: 
+      House no: 08
+      road no: 76
+      pincode: 78646
+
+  - name: Vinil
+    phone no: 456876556
+    address: 
+      House no: 12
+      road no: 32
+      pincode: 34256
+
+  - name: Sunil 
+    phone no: 87654567
+    address:
+      House no: 07
+      road no: 05
+      pincode: 12564
+
+  
+    
