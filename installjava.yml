@@ -2,7 +2,7 @@
 - hosts: mywebservers
   become: yes
   tasks:
-  - name: install java on ubuntu
+  - name: install java on ubuntu nodes
     apt: 
       name: "{{myjavapackonubuntu}}"
       state: present
