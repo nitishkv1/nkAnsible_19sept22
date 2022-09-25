@@ -2,7 +2,5 @@
 - hosts: 172.31.41.16
   become: yes
   tasks:
-  - name: creste a file
-    file:
-      path: /home/ubuntu
-      state: touch
+  - include_tasks: myfiles.yml
+  
